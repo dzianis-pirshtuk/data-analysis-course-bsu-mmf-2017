@@ -1,6 +1,7 @@
-# Лекция 3. Кластеризация.
+# Лекция 3. Оценка качества моделей. Проблемы подгонки. Решающие деревья.
 
-* Видео: https://www.youtube.com/watch?v=XLu2mJ2cnVY
-* Слайды: https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/raw/master/lectures/3_Clustering.pdf
+Слайды:
 
-(По материалам курса "Анализ данных на практике" - http://miptstream.ru/2016/10/06/data-mining-in-action/ )
+* https://github.com/dzianis-pirshtuk/data-analysis-course-bsu-mmf-2016/blob/master/Lectures/02%20-%20Classification.pdf
+* https://github.com/dzianis-pirshtuk/data-analysis-course-bsu-mmf-2016/blob/master/Lectures/03%20-%201%20-%20Decision%20Trees.pdf
+
